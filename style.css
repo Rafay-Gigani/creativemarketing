@@ -122,8 +122,6 @@ button:hover{
 .fa-circle-arrow-right:hover{
     transition: 0.5s;
     color: #fff;
-    background: none;
-    background-color: #1A2C43;
 }
 .image-section img {
    width: 100%;
